@@ -92,4 +92,3 @@ public class Activity_register extends AppCompatActivity {
                 });
     }
 }
-
